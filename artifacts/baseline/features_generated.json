@@ -1,0 +1,5 @@
+{
+  "image_sha256": "16d3e0b1d79e38daeaaaa38d6c5ec25af5eb4776c8e081c1d73774d0f46c7832",
+  "extractor": "torch-fidelity-0.3.0-inception-v3-compat-2048",
+  "device": "mps"
+}

@@ -1,0 +1,13 @@
+.venv*/
+.python/
+__pycache__/
+.pytest_cache/
+.DS_Store
+.cache/
+data/
+*.egg-info/
+artifacts/*/noise.pt
+artifacts/*/generated.pt
+artifacts/*/features_*.npy
+artifacts/*/batch_*.pt
+artifacts/*/latents_*.pt

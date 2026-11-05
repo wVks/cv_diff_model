@@ -1,0 +1,10 @@
+{
+  "library_fid": 28.31512159481133,
+  "independent_psd_fid": 28.315121584386418,
+  "absolute_difference": 1.0424912488815608e-08,
+  "tolerance": 0.0001,
+  "features_finite": true,
+  "min_covariance_real_eigenvalue": 0.0012764782281890468,
+  "min_sandwich_eigenvalue": 1.5456975127476524e-16,
+  "passed": true
+}

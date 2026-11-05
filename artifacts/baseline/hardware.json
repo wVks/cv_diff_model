@@ -1,0 +1,7 @@
+{
+  "description": "Apple M4 Pro, 24 ГБ общей памяти, GPU 16 ядер",
+  "chip": "Apple M4 Pro",
+  "unified_memory_gb": 24,
+  "gpu_cores": 16,
+  "source": "system_profiler SPHardwareDataType SPDisplaysDataType"
+}
